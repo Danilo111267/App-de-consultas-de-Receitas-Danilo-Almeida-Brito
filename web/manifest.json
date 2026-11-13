@@ -1,0 +1,9 @@
+{
+  "name": "Consulta de Receitas",
+  "short_name": "Receitas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF9800",
+  "description": "Consulta de receitas culinárias"
+}

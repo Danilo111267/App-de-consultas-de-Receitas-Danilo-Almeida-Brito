@@ -9,7 +9,7 @@ Integrante: Danilo Almeida Brito.
 Abra a pasta do projeto no VS Code e execute:
 
 ```bash
-flutter create . --platforms=android,web
+flutter create . --project-name consulta_receitas --platforms=android,web
 flutter pub get
 flutter run -d chrome
 ```
